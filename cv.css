@@ -1,0 +1,39 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0;
+}
+
+table, th, td, tr {
+  border: none !important;
+}
+
+td {
+  padding: 2px 8px 2px 0;
+  vertical-align: top;
+}
+
+td:first-child {
+  white-space: nowrap;
+  width: 120px;
+}
+
+h1 {
+  border: none !important;
+  margin-bottom: 0;
+}
+
+h2 {
+  border-bottom: 2px solid #003E7E;
+  padding-bottom: 4px;
+  color: #003E7E;
+  margin-bottom: -0px;
+}
+
+hr {
+  display: none;
+}
+
+p + table {
+  margin-top: -28px;
+}
