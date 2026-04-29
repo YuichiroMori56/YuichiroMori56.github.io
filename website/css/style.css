@@ -1,0 +1,390 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --accent: #003E7E;
+  --accent-light: #e8f0fa;
+  --text: #222;
+  --text-light: #555;
+  --bg: #fff;
+  --nav-height: 56px;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: var(--nav-height);
+}
+
+body {
+  font-family: "Segoe UI", system-ui, sans-serif;
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.7;
+}
+
+/* ── Navigation ── */
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: var(--nav-height);
+  background: var(--accent);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  z-index: 100;
+  padding: 0 2.5rem;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  padding: 0.25rem 0;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.2s;
+}
+
+nav a:hover,
+nav a.active {
+  border-color: #fff;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 1.5rem;
+  cursor: pointer;
+  position: absolute;
+  right: 1rem;
+}
+
+/* ── Layout ── */
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: calc(var(--nav-height) + 3rem) 1.5rem 3rem;
+}
+
+section {
+  margin-bottom: 4rem;
+}
+
+/* ── Typography ── */
+
+h1 {
+  font-size: 2rem;
+  color: var(--accent);
+  margin-bottom: 0.25rem;
+}
+
+.subtitle {
+  font-size: 1rem;
+  color: var(--text-light);
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 1.35rem;
+  color: var(--accent);
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.3rem;
+  margin-bottom: 1.25rem;
+}
+
+h3 {
+  font-size: 1.05rem;
+  color: var(--accent);
+  margin: 1.5rem 0 0.5rem;
+}
+
+p {
+  margin-bottom: 0.85rem;
+}
+
+a {
+  color: var(--accent);
+}
+
+/* ── About ── */
+
+.about-hero {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.profile-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 15%;
+  flex-shrink: 0;
+  border: 3px solid var(--accent-light);
+}
+
+.about-text {
+  flex: 1;
+}
+
+.affiliations {
+  list-style: none;
+  margin-bottom: 1rem;
+}
+
+.affiliations li {
+  padding: 0.2rem 0;
+}
+
+.affiliations li::before {
+  content: "";
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  background: var(--accent);
+  border-radius: 50%;
+  margin-right: 0.6rem;
+  vertical-align: middle;
+}
+
+/* ── Research Interests ── */
+
+.interests {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  list-style: none;
+}
+
+.interests li {
+  background: var(--accent-light);
+  color: var(--accent);
+  padding: 0.35rem 1rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+/* ── Publications ── */
+
+.pub-list {
+  list-style: none;
+  counter-reset: pub;
+}
+
+.pub-list li {
+  counter-increment: pub;
+  padding: 0.6rem 0;
+  padding-left: 2.5rem;
+  position: relative;
+  border-bottom: 1px solid #eee;
+}
+
+.pub-list li::before {
+  content: counter(pub) ".";
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-weight: 600;
+  min-width: 2rem;
+  text-align: right;
+}
+
+.pub-list li:last-child {
+  border-bottom: none;
+}
+
+.pub-year {
+  display: inline-block;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.1rem 0.5rem;
+  border-radius: 3px;
+  margin-right: 0.4rem;
+  vertical-align: middle;
+}
+
+/* ── Awards ── */
+
+.award-list {
+  list-style: none;
+}
+
+.award-list li {
+  padding: 0.5rem 0;
+  padding-left: 1.2rem;
+  position: relative;
+  border-bottom: 1px solid #eee;
+}
+
+.award-list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.85rem;
+  width: 8px;
+  height: 8px;
+  background: var(--accent);
+  border-radius: 2px;
+}
+
+.award-list li:last-child {
+  border-bottom: none;
+}
+
+.award-year {
+  font-weight: 600;
+  color: var(--accent);
+  margin-right: 0.5rem;
+}
+
+/* ── CV ── */
+
+.cv-download {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+  padding: 0.7rem 1.5rem;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: opacity 0.2s;
+}
+
+.cv-download:hover {
+  opacity: 0.85;
+}
+
+.cv-download svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}
+
+/* ── Contact ── */
+
+.contact-list {
+  list-style: none;
+}
+
+.contact-list li {
+  padding: 0.35rem 0;
+}
+
+.contact-list a {
+  text-decoration: none;
+}
+
+.contact-list a:hover {
+  text-decoration: underline;
+}
+
+/* ── Footer ── */
+
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  border-top: 1px solid #eee;
+  color: var(--text-light);
+  font-size: 0.85rem;
+}
+
+footer a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* ── Language switch ── */
+
+.nav-sep {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 0.85rem;
+  user-select: none;
+}
+
+.lang-link {
+  font-size: 0.8rem !important;
+  opacity: 0.8;
+}
+
+.lang-link:hover {
+  opacity: 1;
+}
+
+/* ── Responsive ── */
+
+@media (max-width: 640px) {
+  nav {
+    flex-wrap: wrap;
+    height: auto;
+    padding: 0.75rem 1.5rem;
+    justify-content: flex-end;
+  }
+
+  .nav-toggle {
+    display: block;
+  }
+
+  .nav-links {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+    gap: 0.3rem;
+    padding-top: 0.75rem;
+  }
+
+  .nav-links.open {
+    display: flex;
+  }
+
+  nav a {
+    padding: 0.4rem 0;
+  }
+
+  main {
+    padding-top: calc(56px + 2rem);
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  .about-hero {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .profile-photo {
+    width: 150px;
+    height: 150px;
+  }
+}

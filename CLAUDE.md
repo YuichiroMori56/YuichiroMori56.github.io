@@ -1,6 +1,6 @@
 # yuichiro-profile
 
-森 祐一朗（Yuichiro Mori）の研究者プロフィール・業績管理リポジトリ。
+森 雄一郎（Yuichiro Mori）の研究者プロフィール・業績管理リポジトリ。
 GitHub Pages でパーソナルウェブサイトとして公開する。
 
 ## リポジトリ構成
