@@ -69,13 +69,13 @@ Office: (+81) 75-366-7675 | Email: mori.yuichiro.v77@kyoto-u.jp
 
 | | |
 |:------------|:--------------------------------------------------------------|
-| 2026        | First-Place Young Investigator's Award (Clinical Research), The 90th Annual Scientific Meeting of the Japanese Circulation Society |
-| 2026        | JACC: Asia Young Author Achievement Award (Honorable Mention), American College of Cardiology |
-| 2026        | CKD Frontier Award, The 15th CKD Frontier Meeting            |
-| 2019        | The Best Poster Presentation, The 28th Annual Meeting of the Japanese Association of Cardiovascular Intervention and Therapeutics |
-| 2018        | Case Report Award (Finalist), The 82nd Annual Scientific Meeting of the Japanese Circulation Society |
-| 2016        | Young Investigator's Award, The 116th Meeting of the Japanese Circulation Society, Hokkaido branch |
-| 2016        | Young Investigator's Award, The 278th Meeting of the Japanese Society of Internal Medicine, Hokkaido branch |
+| 2026        | First-Place Young Investigator's Award (Clinical Research), The 90th Annual Scientific Meeting of the Japanese Circulation Society <!-- ja: Young Investigator's Award 最優秀賞（Clinical Research）, 第90回日本循環器学会学術集会 --> |
+| 2026        | JACC: Asia Young Author Achievement Award (Honorable Mention), American College of Cardiology <!-- ja: JACC: Asia Young Author Achievement Award (Honorable Mention), 米国心臓病学会 --> |
+| 2026        | CKD Frontier Award, The 15th CKD Frontier Meeting <!-- ja: CKD Frontier Award, 第15回CKD Frontier Meeting --> |
+| 2019        | The Best Poster Presentation, The 28th Annual Meeting of the Japanese Association of Cardiovascular Intervention and Therapeutics <!-- ja: 最優秀ポスター賞, 第28回日本心血管インターベンション治療学会学術集会 --> |
+| 2018        | Case Report Award (Finalist), The 82nd Annual Scientific Meeting of the Japanese Circulation Society <!-- ja: Case Report Award（Finalist）, 第82回日本循環器学会学術集会 --> |
+| 2016        | Young Investigator's Award, The 116th Meeting of the Japanese Circulation Society, Hokkaido branch <!-- ja: Young Investigator's Award, 第116回日本循環器学会北海道地方会 --> |
+| 2016        | Young Investigator's Award, The 278th Meeting of the Japanese Society of Internal Medicine, Hokkaido branch <!-- ja: Young Investigator's Award, 第278回日本内科学会北海道地方会 --> |
 | 2015        | Gold Award, Biomedical-Innovation and Entrepreneurship Course by SPARK at Stanford University, Academia Sinica, Taiwan |
 
 ---
@@ -117,8 +117,8 @@ Office: (+81) 75-366-7675 | Email: mori.yuichiro.v77@kyoto-u.jp
 
 ## PEER-REVIEWED PUBLICATIONS
 
-1. Mori Y, Hirano K, Ikenoue T, Kobayashi A, Yanagita M, Fukuma S. New-Onset Atrial Fibrillation and Accelerated Kidney Function Decline in Working-Age Adults. (in press)
-2. Mori Y, Fukuma S. Clinical engagement and cardiovascular outcomes of screening-detected atrial fibrillation in working-age adults. *J Cardiol.* 2026, online first.
+1. Mori Y, Hirano K, Ikenoue T, Kobayashi A, Yanagita M, Fukuma S. New-Onset Atrial Fibrillation and Accelerated Kidney Function Decline in Working-Age Adults. *JAMA Netw Open.* 2026;9(5):e2612823.
+2. Mori Y, Fukuma S. Clinical engagement and cardiovascular outcomes of screening-detected atrial fibrillation in working-age adults. *J Cardiol.* 2026 Apr 2:S0914-5087(26)00070-5.
 3. Aikawa T, Mori Y, Kuno T, et al. Impact of facility criteria revision for rotational atherectomy on outcomes after PCI. *JACC Adv.* 2026;5:102672.
 4. Kanaji Y, Yamaji K, Kunimura A, ..., Mori Y, et al. Prognostic impact of COVID-19 on patients with acute coronary syndrome undergoing emergent percutaneous coronary intervention — insights from the J-PCI nationwide registry —. *Circ J.* 2026;CJ-25-0705.
 5. Ikemura N, Mori Y, Chan PS, et al. Trends in unprotected left main percutaneous coronary intervention and clinical outcomes. *JAMA Netw Open.* 2026;9:e2560422.
@@ -158,19 +158,19 @@ Office: (+81) 75-366-7675 | Email: mori.yuichiro.v77@kyoto-u.jp
 
 ## NON-PEER-REVIEWED PUBLICATIONS
 
-1. Mori Y, Sawano M, Kohsaka S, Tsugawa Y, Yanagita M, Fukuma S. Reply to Letter Regarding Article, "Screening-Detected Atrial Fibrillation and Cardiovascular Outcomes in Working-Age Adults." *Circulation.* (in press)
-2. Mori Y, Natori S, Arai T, Kakuya F, Fukuma S. Author's reply to letter regarding article, "biomarker-based pre-heart failure screening in a middle-aged rural population." *J Cardiol.* 2026; Online ahead of print.
+1. Mori Y, Sawano M, Kohsaka S, Tsugawa Y, Yanagita M, Fukuma S. Reply to Letter Regarding Article, "Screening-Detected Atrial Fibrillation and Cardiovascular Outcomes in Working-Age Adults." *Circulation.* 2026;153(16).
+2. Mori Y, Natori S, Arai T, Kakuya F, Fukuma S. Author's reply to letter regarding article, "biomarker-based pre-heart failure screening in a middle-aged rural population." *J Cardiol.* 2026; Online ahead of print
 
 ---
 
 ## INTERNATIONAL CONFERENCE PRESENTATIONS
 
-1. Mori Y, Natori S, and Fukuma S. "Pre-Heart Failure Detected in Routine Screening in the General Working-Age Population and Echocardiographic Findings." ACC.25, Chicago, IL.
-2. Mori Y, Sawano M, Kohsaka S, et al. "Screening-Detected Atrial Fibrillation and Cardiovascular Outcomes in Working-Age Adults." ACC.25, Chicago, IL.
-3. Mori Y, Komura T, Adomi M, et al. "Heterogeneous Effect of Sodium-Glucose Cotransporter 2 Inhibitors on Cardiovascular Events among People with Type 2 Diabetes: An Application of Machine Learning to Target Trial Emulation." ESC 2024, London, UK.
-4. Mori Y, Inoue K, Sato H, Tsushima T, Fukuma S. "Beta Blocker Initiation under Dobutamine Infusion: A Target Trial Emulation with Observational Data." SER 2023, Portland, OR.
-5. Mori Y, Duru OK, Tuttle KR, et al. "Sodium-Glucose Cotransporter 2 Inhibitors and New-onset Type 2 Diabetes in Adults with Prediabetes: systematic review and meta-analysis of randomized controlled trials." AHA Scientific Session 2022, Chicago, IL.
-6. Mori Y, Kazuno Y, et al. "Subclinical leaflet thrombosis in a transcatheter heart valve: an autopsy case report." EuroPCR 2017, Paris, France.
+1. Mori Y, Natori S, and Fukuma S. "Pre-Heart Failure Detected in Routine Screening in the General Working-Age Population and Echocardiographic Findings." ACC.25, Chicago, IL. (2025)
+2. Mori Y, Sawano M, Kohsaka S, et al. "Screening-Detected Atrial Fibrillation and Cardiovascular Outcomes in Working-Age Adults." ACC.25, Chicago, IL. (2025)
+3. Mori Y, Komura T, Adomi M, et al. "Heterogeneous Effect of Sodium-Glucose Cotransporter 2 Inhibitors on Cardiovascular Events among People with Type 2 Diabetes: An Application of Machine Learning to Target Trial Emulation." ESC 2024, London, UK. (2024)
+4. Mori Y, Inoue K, Sato H, Tsushima T, Fukuma S. "Beta Blocker Initiation under Dobutamine Infusion: A Target Trial Emulation with Observational Data." SER 2023, Portland, OR. (2023)
+5. Mori Y, Duru OK, Tuttle KR, et al. "Sodium-Glucose Cotransporter 2 Inhibitors and New-onset Type 2 Diabetes in Adults with Prediabetes: systematic review and meta-analysis of randomized controlled trials." AHA Scientific Session 2022, Chicago, IL. (2022)
+6. Mori Y, Kazuno Y, et al. "Subclinical leaflet thrombosis in a transcatheter heart valve: an autopsy case report." EuroPCR 2017, Paris, France. (2017)
 
 ---
 
