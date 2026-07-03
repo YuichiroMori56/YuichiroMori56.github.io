@@ -144,10 +144,21 @@ def build_cv_html():
          "-o", str(out)],
         check=True, cwd=ROOT)
     html = out.read_text(encoding="utf-8")
-    extra = ("<style>body{max-width:800px;margin:0 auto;padding:2rem 1.5rem;"
+    # cv.css targets the legacy markdown-pdf renderer; the rules below adapt
+    # pandoc's output (colgroup widths, paragraph/table spacing) to match it.
+    extra = ("<style>"
+             "body{max-width:800px;margin:0 auto;padding:2rem 1.5rem;"
              'font-family:"Segoe UI",system-ui,sans-serif;line-height:1.55;}'
+             "p{margin:0.9rem 0 0.35rem;}"
+             "p+table{margin-top:0;}"
+             "table{table-layout:fixed;margin-bottom:0.9rem;}"
+             "col:first-child{width:120px!important;}"
+             "col:last-child{width:auto!important;}"
+             "td{padding:2px 8px 2px 0;vertical-align:top;}"
+             "h2{margin-top:1.6rem;}"
              ".site-back{font-size:0.9rem;margin-bottom:1.5rem;}"
-             "@media print{.site-back{display:none;}}</style>")
+             "@media print{.site-back{display:none;}}"
+             "</style>")
     back = ('<p class="site-back"><a href="index.html">&larr; Back to '
             "yuichiromori56.github.io</a></p>")
     html = html.replace("</head>", extra + "\n</head>", 1)
