@@ -16,7 +16,8 @@ Office: (+81) 75-366-7675 | Email: mori.yuichiro.v77@kyoto-u.jp
 ## WORK EXPERIENCE
 
 **Kyoto University Graduate School of Medicine** — Kyoto, Japan
-|||
+
+| | |
 |:------------|:--------------------------------------------------------------|
 | 2026–       | Researcher, Department of Health Promotion and Behavioral Sciences |
 | 2022–2026   | Research Fellow, Graduate Program for Medical Innovation      |
