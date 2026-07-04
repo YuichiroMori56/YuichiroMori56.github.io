@@ -247,11 +247,3 @@ Office: (+81) 75-366-7675 | Email: mori.yuichiro.v77@kyoto-u.jp
 **Book chapter**
 
 1. Mori Y. "Basics in Electrocardiograms for Emergency Department", ed. D. Yakabe, Ch.7 ("Electrolyte Abnormality, toxicity, and other ECG findings"), *Resident Note,* vol 23.1, Yodosha, Tokyo: Chiyoda, 2021.
-
----
-
-## REFERENCES
-
-**Shingo Fukuma, MD, PhD** — Professor, Department of Human Health Sciences, Kyoto University Graduate School of Medicine, 53 Shogoin Kawaharacho, Sakyo-Ku, Kyoto 606-8507, Japan — fukuma.shingo.3m@kyoto-u.ac.jp
-
-**Motoko Yanagita, MD, PhD** — Professor, Department of Nephrology, Kyoto University Graduate School of Medicine, 53 Shogoin Kawaharacho, Sakyo-Ku, Kyoto 606-8507, Japan — motoy@kuhp.kyoto-u.ac.jp
