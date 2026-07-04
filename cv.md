@@ -166,12 +166,13 @@ Office: (+81) 75-366-7675 | Email: mori.yuichiro.v77@kyoto-u.jp
 
 ## INTERNATIONAL CONFERENCE PRESENTATIONS
 
-1. Mori Y, Natori S, and Fukuma S. "Pre-Heart Failure Detected in Routine Screening in the General Working-Age Population and Echocardiographic Findings." ACC.25, Chicago, IL. (2025)
-2. Mori Y, Sawano M, Kohsaka S, et al. "Screening-Detected Atrial Fibrillation and Cardiovascular Outcomes in Working-Age Adults." ACC.25, Chicago, IL. (2025)
-3. Mori Y, Komura T, Adomi M, et al. "Heterogeneous Effect of Sodium-Glucose Cotransporter 2 Inhibitors on Cardiovascular Events among People with Type 2 Diabetes: An Application of Machine Learning to Target Trial Emulation." ESC 2024, London, UK. (2024)
-4. Mori Y, Inoue K, Sato H, Tsushima T, Fukuma S. "Beta Blocker Initiation under Dobutamine Infusion: A Target Trial Emulation with Observational Data." SER 2023, Portland, OR. (2023)
-5. Mori Y, Duru OK, Tuttle KR, et al. "Sodium-Glucose Cotransporter 2 Inhibitors and New-onset Type 2 Diabetes in Adults with Prediabetes: systematic review and meta-analysis of randomized controlled trials." AHA Scientific Session 2022, Chicago, IL. (2022)
-6. Mori Y, Kazuno Y, et al. "Subclinical leaflet thrombosis in a transcatheter heart valve: an autopsy case report." EuroPCR 2017, Paris, France. (2017)
+1. Mori Y, Lee H, Son D, Yagi R, Yano Y, Kim HC, Khan SS, Inoue K. "Sex-Specific Differences in Premature Cardiovascular Disease Subtypes in Adults from East Asia." SER 2026, Phoenix, AZ. (2026)
+2. Mori Y, Natori S, and Fukuma S. "Pre-Heart Failure Detected in Routine Screening in the General Working-Age Population and Echocardiographic Findings." ACC.25, Chicago, IL. (2025)
+3. Mori Y, Sawano M, Kohsaka S, et al. "Screening-Detected Atrial Fibrillation and Cardiovascular Outcomes in Working-Age Adults." ACC.25, Chicago, IL. (2025)
+4. Mori Y, Komura T, Adomi M, et al. "Heterogeneous Effect of Sodium-Glucose Cotransporter 2 Inhibitors on Cardiovascular Events among People with Type 2 Diabetes: An Application of Machine Learning to Target Trial Emulation." ESC 2024, London, UK. (2024)
+5. Mori Y, Inoue K, Sato H, Tsushima T, Fukuma S. "Beta Blocker Initiation under Dobutamine Infusion: A Target Trial Emulation with Observational Data." SER 2023, Portland, OR. (2023)
+6. Mori Y, Duru OK, Tuttle KR, et al. "Sodium-Glucose Cotransporter 2 Inhibitors and New-onset Type 2 Diabetes in Adults with Prediabetes: systematic review and meta-analysis of randomized controlled trials." AHA Scientific Session 2022, Chicago, IL. (2022)
+7. Mori Y, Kazuno Y, et al. "Subclinical leaflet thrombosis in a transcatheter heart valve: an autopsy case report." EuroPCR 2017, Paris, France. (2017)
 
 ---
 
