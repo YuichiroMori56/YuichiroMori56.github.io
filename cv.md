@@ -209,7 +209,7 @@ Office: (+81) 75-366-7675 | Email: mori.yuichiro.v77@kyoto-u.jp
 | | |
 |:------------|:--------------------------------------------------------------|
 | 2024–       | Advisor, Kamiyama Foundation                                  |
-| 2024–       | Working group core faculty, the JCS-COMPASS, the Japanese Circulation Society |
+| 2024–2026   | Working group core faculty, the JCS-COMPASS, the Japanese Circulation Society |
 | 2023–       | Analyst, the J-PCI registry, the Japanese Association of Cardiovascular Intervention and Therapeutics |
 | 2023–       | Committee member, Kamiyama Foundation Scholarship Program     |
 | 2015        | Assistant, the University of Tokyo Hospital Clinical Research Support Center, Japan |
