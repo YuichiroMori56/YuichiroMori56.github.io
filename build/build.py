@@ -144,6 +144,7 @@ def build_cv_html():
          "-o", str(out)],
         check=True, cwd=ROOT)
     html = out.read_text(encoding="utf-8")
+    html = re.sub(r"\bMori Y\b", "<strong>Mori Y</strong>", html)
     # cv.css targets the legacy markdown-pdf renderer; the rules below adapt
     # pandoc's output (colgroup widths, paragraph/table spacing) to match it.
     extra = ("<style>"
