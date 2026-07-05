@@ -149,7 +149,7 @@ def build_cv_html():
     # pandoc's output (colgroup widths, paragraph/table spacing) to match it.
     extra = ("<style>"
              "body{max-width:800px;margin:0 auto;padding:2rem 1.5rem;"
-             'font-family:"Segoe UI",system-ui,sans-serif;line-height:1.55;}'
+             'font-family:"Times New Roman",Times,serif;line-height:1.55;}'
              "p{margin:0.9rem 0 0.35rem;}"
              "p+table{margin-top:0;}"
              "table{table-layout:fixed;margin-bottom:0.9rem;}"
