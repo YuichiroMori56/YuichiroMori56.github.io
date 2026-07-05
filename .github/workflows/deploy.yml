@@ -26,7 +26,14 @@ jobs:
       - name: Install pandoc and weasyprint
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y -qq pandoc weasyprint fonts-open-sans
+          sudo apt-get install -y -qq pandoc weasyprint unzip
+
+      - name: Install Source Sans Pro font
+        run: |
+          mkdir -p ~/.local/share/fonts
+          curl -sL -o /tmp/ssp.zip https://github.com/adobe-fonts/source-sans/releases/download/3.006R/source-sans-pro-3.006R.zip
+          unzip -o -j -q /tmp/ssp.zip 'source-sans-pro-3.006R/TTF/*.ttf' -d ~/.local/share/fonts
+          fc-cache -f
 
       - name: Build site from cv.md
         run: python3 build/build.py
