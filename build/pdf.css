@@ -5,6 +5,10 @@
   margin: 14mm 14mm;
 }
 
+@page :first {
+  margin-top: 10mm;
+}
+
 body {
   max-width: none;
   padding: 0;
