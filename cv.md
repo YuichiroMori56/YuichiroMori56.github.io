@@ -8,7 +8,7 @@ css: cv.css
 
 <div align="center">
 <h1>Yuichiro Mori, MD, MPH, PhD</h1>
-Office: (+81) 75-366-7675 | Email: mori.yuichiro.v77@kyoto-u.jp
+Office: (+81) 75-366-7675 | Email: mori.yuichiro.7m@kyoto-u.ac.jp
 </div>
 <hr style="display:block; border:none; border-top:2px solid #01080f;">
 
